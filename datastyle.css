@@ -1,0 +1,36 @@
+.navbar-brand {
+    display: inline-block;
+    /* border: 0.5px solid #28baa4;
+    background-color: #28baa4; */
+    border: 0.5px solid salmon;
+    background-color: salmon;
+    padding: 10px;
+    margin-left: 100px;
+    cursor: pointer;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: white;
+}
+
+body {
+    background-color: white;
+}
+
+.main-body {
+    padding: 50px;
+    /* margin-left: 50px;
+    margin-right: 50px; */
+    /* display: inline-block; */
+    border: 80px solid #dee1e5;
+}
+
+.data {
+    display: block;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}

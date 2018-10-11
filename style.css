@@ -1,0 +1,65 @@
+.navbar-brand {
+    display: inline-block;
+    /* border: 0.5px solid #28baa4;
+    background-color: #28baa4; */
+    border: 0.5px solid salmon;
+    background-color: salmon;
+    padding: 10px;
+    margin-left: 100px;
+    cursor: pointer;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: white;
+}
+
+body {
+    background-color: #dee1e5;
+}
+
+#main {
+    display: inline-block;
+    border: 1px solid white;
+    background-color: white;
+    padding: 10px;
+}
+
+#side {
+    display: inline-block;
+    border: 1px solid #efefef;
+    background-color: #efefef;
+    padding: 10px;
+}
+
+.main-body {
+    padding: 75px;
+}
+
+#summary-img {
+    float: left;
+}
+
+#summary-text {
+    float: right;
+    padding: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+/* .plot {
+    display: block;
+    margin: auto;
+    width: 90%;
+
+} */
+
+h2 {
+    padding: 20px;
+}
