@@ -47,10 +47,21 @@ body {
     padding: 20px;
 }
 
+#viz-text {
+    text-align: center;
+    padding: 20px;
+}
 img {
     display: block;
     margin: auto;
     width: 100%;
+    padding: 10px;
+}
+
+.main-img{
+    display: block;
+    margin: auto;
+    width: 75%;
     padding: 10px;
 }
 /* .plot {
@@ -62,4 +73,10 @@ img {
 
 h2 {
     padding: 20px;
+    color: salmon;
+}
+
+h6 {
+    color: salmon;
+    text-align: center;
 }

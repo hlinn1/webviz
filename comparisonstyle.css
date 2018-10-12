@@ -40,7 +40,8 @@ img {
     display: block;
     margin: auto;
     width: 95%;
-    padding: 40px;
+    /* padding: 10px; */
+    margin-bottom: 30px;
 }
 
 /* .plot {
@@ -52,4 +53,12 @@ img {
 
 h2 {
     padding: 20px;
+    color: salmon;
+}
+
+h6 {
+    text-align: center;
+    text-decoration: none;
+    color: salmon;
+    font-size: 24px;
 }
